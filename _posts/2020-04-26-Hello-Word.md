@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hello,Word."
-tags: tag3
+tags: tag4
 ---
 
 ## Hello,Word.
