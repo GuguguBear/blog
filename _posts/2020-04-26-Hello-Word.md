@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hello,Word."
-tags: _>BadCode
+tags: BadCode
 ---
 
 ## Hello,Word.
