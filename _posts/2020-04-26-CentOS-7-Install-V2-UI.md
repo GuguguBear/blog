@@ -4,7 +4,7 @@ title: "CentOS 7 Install V2-UI"
 tags: Linux
 ---
 
-![QQ图片20200420131137.jpg](JekyII_Blog/Wannk%E6%89%91%E5%85%8B%E7%B3%BB%E5%88%97/QQ%E5%9B%BE%E7%89%8720200420131137.jpg)
+![QQ图片20200420131137.jpg](https://image.cltserver.xyz/images/2020/04/30/0662185cfbeda2c462fdbe0dc2d96e4e.md.jpg)
 
 [V2Ray](https://www.v2ray.com/)算是基于SS&SSR之上进行再次升级的一款翻墙软件，它默认已经提供了非常安全的配置选项给大家。
 
