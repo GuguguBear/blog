@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CentOS Install V2ray & SetUp"
+title: "CentOS 7 Install V2-UI"
 tags: Linux
 ---
 
