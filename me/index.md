@@ -1,5 +1,5 @@
 ---
 layout: me
-title: 古咕谷在哪里？
+title: 古咕谷？
 published: true
 ---
